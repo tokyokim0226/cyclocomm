@@ -23,13 +23,12 @@ We built everything from scratch: from designing the PCB layout and soldering th
    *Our custom-built glove featuring integrated sensors that detect specific hand gestures.*
 
 2. **LED Display Module**  
-   ![LED Display (Back)](images/LED_back.png)
-   *Backside of the LED display*
-   
-   ![LED Display (Front)](images/LED_front.png)
-   
+   ![LED Display (Back)](images/LED_back.png)  
+   ![LED Display (Front)](images/LED_front.png)  
    *The LED matrix mounted on a bag or back panel, ready to display emojis, text, or other signals.*
 
-4. **All Prototypes & PCB Design**  
-   ![All Prototypes](images/all_prototypes.png)  
+3. **All Prototypes & PCB Design**  
+   <img src="images/all_prototypes.png" alt="All Prototypes" style="max-width:100%; height:auto;" />
+
    *A showcase of our PCB designs, soldered boards, and fully assembled prototypes that bring the CycloComm concept to life.*
+
