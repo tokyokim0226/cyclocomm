@@ -24,6 +24,8 @@ We built everything from scratch: from designing the PCB layout and soldering th
 
 2. **LED Display Module**  
    ![LED Display (Back)](images/LED_back.png)
+   *Backside of the LED display*
+   
    ![LED Display (Front)](images/LED_front.png)
    *The LED matrix mounted on a bag or back panel, ready to display emojis, text, or other signals.*
 
