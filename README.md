@@ -18,13 +18,13 @@ This file focuses on controlling the LED matrix display. It receives the signals
 
 We built everything from scratch: from designing the PCB layout and soldering the electronics to assembling the glove module. The images below showcase the different stages and prototypes, illustrating our hands-on approach to crafting both the hardware and software elements of CycloComm.
 
-1. **Glove Prototype**  
+1. **Glove Communicator**  
    ![Glove Prototype](images/glove_prototype.png)  
    *Our custom-built glove featuring integrated sensors that detect specific hand gestures.*
 
 2. **LED Display Module**  
-   ![LED Display Module](images/led_display.png)
-   ![LED Display Module2](images/led_display2.png)
+   ![LED Display (Back)](images/LED_back.png)
+   ![LED Display (Front)](images/LED_front.png)
    *The LED matrix mounted on a bag or back panel, ready to display emojis, text, or other signals.*
 
 4. **All Prototypes & PCB Design**  
