@@ -23,12 +23,34 @@ We built everything from scratch: from designing the PCB layout and soldering th
    *Our custom-built glove featuring integrated sensors that detect specific hand gestures.*
 
 2. **LED Display Module**  
-   ![LED Display (Back)](images/LED_back.png)  
+   ![LED Display (Back)](images/LED_back.png)
+   *Backside of our created LED module*
+   
    ![LED Display (Front)](images/LED_front.png)  
    *The LED matrix mounted on a bag or back panel, ready to display emojis, text, or other signals.*
 
-3. **All Prototypes & PCB Design**  
+4. **All Prototypes & PCB Design**  
    <img src="images/all_prototypes.png" alt="All Prototypes" style="max-width:100%; height:auto;" />
 
    *A showcase of our PCB designs, soldered boards, and fully assembled prototypes that bring the CycloComm concept to life.*
+
+5. **Hand Gesture Manual**
+   Full hand gesture manual.
+   ![Gesture Manual](images/gesture_manual.png)
+
+## How it Works (Simple Overview)
+
+1. Click the Button
+- Tap your hand on the underside of the bike’s handlebar to activate the input.
+- Once pressed, you have 1.5 seconds to make a gesture before the system reads and sends the signal.
+
+2. Make a Hand Gesture
+- Choose from up to 7 possible hand gestures (shown above)
+- Bend sensors on the glove detect and convert each finger’s motion into a digital signal (1 or 0).
+
+3. Gesture Sent via Bluetooth
+- After the 1.5-second window, the recognized gesture (e.g., “L” for left) is transmitted wirelessly from the glove to the Arduino controlling the LED display.
+
+4. Gesture Interpreted & Displayed
+- The Arduino interprets the received character signal and lights up the pre-defined pattern on the LED screen (e.g., an arrow or an emoji). This makes it easier for drivers to see and understand your intent.
 
